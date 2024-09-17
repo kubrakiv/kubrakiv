@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kubrakiv
 - 👀 I’m interested in logistic's automatization
-- 🌱 I’m currently learning javascrip, html, css, react, redux, python, django, sql
-- 💞️ I’m looking to collaborate on specific automatization tasks
+- 🌱 I’m currently working with javascrip, html, css, react, redux, python, django, sql
+- 💞️ I’m looking to collaborate on specific projects and automatization tasks
 - 📫 How to reach me kubrak.ivan@gmail.com
 
 <!---
